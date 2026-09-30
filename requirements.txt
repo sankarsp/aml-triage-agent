@@ -1,0 +1,12 @@
+langgraph>=1.2,<2
+langgraph-checkpoint-postgres>=3.1,<4
+langchain-core>=1.6,<2
+langchain-aws>=1.7,<2
+fastapi>=0.140
+uvicorn[standard]>=0.40
+psycopg[binary,pool]>=3.3
+pgvector>=0.5
+numpy>=2.0
+pydantic>=2.10
+pydantic-settings>=2.10
+boto3>=1.40
